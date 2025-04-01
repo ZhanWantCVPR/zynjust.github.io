@@ -110,6 +110,21 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 
 - Ref: Yu Zheng, Yadang Chen, Chuanyan Hao. Video object segmentation algorithm based on consistent features[J]. Journal of image and graphics, 2020, 25(8): 1558-1566. DOI： 10.11834/jig.190571. **(北核, CSCD核心, EBSCO, Scopus, JST, SWJTU A, SWUFE B, IF=2.428)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[一种基于高阶能量约束的视频对象分割算法]([https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASE0NOMjAxOTEwNjQ5MzUxLjhfc3EaCHgxZW50ZTVz](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASE0NOMjAxOTEwNjQ5MzUxLjhfc3EaCHgxZW50ZTVz))
+
+陈亚当, **征煜**, 金子龙
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: 南京信息工程大学. 一种基于高阶能量约束的视频对象分割算法:CN201910649351.8[P]. 2023-04-25. **(发明专利)**
+
+
 
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
