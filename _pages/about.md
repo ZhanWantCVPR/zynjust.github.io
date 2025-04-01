@@ -41,8 +41,14 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* Graduate Study Scholarship (三等).
+- *2023.11* Graduate Study Scholarship (三等).
+- *2022.11* Graduate Study Scholarship (三等).
+- *2021.11* Graduate Study Scholarship (二等). 
+- *2020.11* Graduate Study Scholarship (三等). 
+- *2019.11* Graduate Study Scholarship (三等). 
+- *2018.11* Graduate Study Scholarship (二等). 
+- *2016.09* China Software Cup National Third Prize (多模态身份识别, 全国三等奖). 
 
 # 📖 Educations
 - *2021.06 - 2025 (now)*, Nanjing University of Science and Technology (NJUST), Key Laboratory of the Ministry of Education of the People's Republic of China for “Intelligent Perception and System of High-Dimensional Information” (“高维信息智能感知与系统”教育部重点实验室) “National Key Laboratory of Intelligent Manufacturing of High-end Construction Machinery (“高端工程机械智能制造”全国重点实验室). PhD degree in Engineering Candidate (工学博士学位候选人). 
@@ -53,4 +59,6 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - 2025 (now)*, Yong Liu ([[https://faculty.nuist.edu.cn/chenyadang/zh_CN/index.htm](http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)](http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)), 江苏省“六大人才高峰”B类, 江苏省“青蓝工程”中青年学术带头人, PhD supervisor, China.
+- *2018.09 - 2021.06*, Yadang Chen (https://faculty.nuist.edu.cn/chenyadang/zh_CN/index.htm), Master's supervisor, China.
+- *2018.09 - 2021.06*, Zhaoqing Pan ([https://seea.tju.edu.cn/info/1015/2556.htm](https://seea.tju.edu.cn/info/1015/2556.htm)), 全球前2%顶尖科学家（World Top 2% Scientists）, Master's supervisor, China.
