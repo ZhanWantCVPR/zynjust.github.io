@@ -138,6 +138,21 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 
 - Ref: 南京理工大学. 一种基于知识图谱和增量学习的网络安全事件检测方法:CN202310279321.9[P]. 2023-06-23. **(发明专利)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[一种基于文本生成网络安全应急响应知识图谱方法]([https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMzE2MzA1LjIaCHgxZW50ZTVz](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMzE2MzA1LjIaCHgxZW50ZTVz))
+
+车洵, 李千目, 朱旻昊, 陈竞飞, 赵谦, 刘帆, **征煜**
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: 南京理工大学. 一种基于文本生成网络安全应急响应知识图谱方法:CN202310316305.2[P]. 2023-06-27. **(发明专利)**
+
+
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
 - *2023.11* Graduate Study Scholarship (三等).
