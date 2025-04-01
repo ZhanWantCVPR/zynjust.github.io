@@ -29,16 +29,16 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/MS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SiamRCSC: Robust siamese network with channel and spatial constraints for visual object tracking]([https://link.springer.com/article/10.1007/s00530-024-01524-4](https://link.springer.com/article/10.1007/s00530-024-01524-4))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yu Zheng**, Yong Liu, Xun Che
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Ref: Zheng, Y., Liu, Y. & Che, X. SiamRCSC: Robust siamese network with channel and spatial constraints for visual object tracking. Multimedia Systems 30, 323 (2024). https://doi.org/10.1007/s00530-024-01524-4 **JCR Q1, IF=3.5, CCF C**
 
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
