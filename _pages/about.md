@@ -21,8 +21,12 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *March 3, 2025*: &nbsp;🎉🎉 a paper was accepted by **JVCIR**!
+- *October 1, 2024*: &nbsp;🎉🎉 a paper was accepted by **MS**!
+- *August 20, 2024*: &nbsp;🎉🎉 a paper was accepted by **IEEE iThings(2024)**!
+- *August 19, 2024*: &nbsp;🎉🎉 a paper was accepted by **IEEE iThings(2024)**! 
+- *July 17, 2024*: &nbsp;🎉🎉 a paper was accepted by **IEEE CYBER(2024)**!
+- *March 17, 2020*: &nbsp;🎉🎉 a paper was accepted by **中国图象图形学报**! 
 
 # 📝 Publications 
 
