@@ -180,6 +180,20 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 
 - Ref: 江苏瑞智核信息技术有限公司. 一种基于优化词嵌入的检索增强生成方法:CN202410437009.2[P]. 2024-07-12. **(发明专利)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[多重信息轴向引导非对称半监督语义分割方法]([https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyNDEwNjIwMjk0LjEaCHgxZW50ZTVz](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyNDEwNjIwMjk0LjEaCHgxZW50ZTVz))
+
+车洵, 陈亚当, 朱旻昊, 赵谦, 徐睿, 顾欢欢, **征煜**, 王玉鹏, 朱贤豪 
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: 江苏瑞智核信息技术有限公司. 多重信息轴向引导非对称半监督语义分割方法:CN202410620294.1[P]. 2024-08-09. **(发明专利)**
+
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
 - *2023.11* Graduate Study Scholarship (三等).
