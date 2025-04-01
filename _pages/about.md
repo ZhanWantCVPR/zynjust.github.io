@@ -40,7 +40,7 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 
 - Ref: Zheng, Y., Liu, Y. & Che, X. SiamRCSC: Robust siamese network with channel and spatial constraints for visual object tracking. Multimedia Systems 30, 323 (2024). https://doi.org/10.1007/s00530-024-01524-4 **(JCR Q1, IF=3.5, CCF C类)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCI</div><img src='images/MS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCI</div><img src='images/JVCI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A robust and adaptive framework with space–time memory networks for Visual Object Tracking]([https://www.sciencedirect.com/science/article/abs/pii/S1047320325000458](https://www.sciencedirect.com/science/article/abs/pii/S1047320325000458))
