@@ -26,7 +26,7 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/MS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Systems</div><img src='images/MS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SiamRCSC: Robust siamese network with channel and spatial constraints for visual object tracking]([https://link.springer.com/article/10.1007/s00530-024-01524-4](https://link.springer.com/article/10.1007/s00530-024-01524-4))
@@ -38,7 +38,22 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 </div>
 </div>
 
-- Ref: Zheng, Y., Liu, Y. & Che, X. SiamRCSC: Robust siamese network with channel and spatial constraints for visual object tracking. Multimedia Systems 30, 323 (2024). https://doi.org/10.1007/s00530-024-01524-4 **JCR Q1, IF=3.5, CCF C**
+- Ref: Zheng, Y., Liu, Y. & Che, X. SiamRCSC: Robust siamese network with channel and spatial constraints for visual object tracking. Multimedia Systems 30, 323 (2024). https://doi.org/10.1007/s00530-024-01524-4 **(JCR Q1, IF=3.5, CCF C类)**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCI</div><img src='images/MS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A robust and adaptive framework with space–time memory networks for Visual Object Tracking]([https://www.sciencedirect.com/science/article/abs/pii/S1047320325000458](https://www.sciencedirect.com/science/article/abs/pii/S1047320325000458))
+
+**Yu Zheng**, Yong Liu, Xun Che
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: Yu Zheng, Yong Liu, Xun Che, A robust and adaptive framework with space–time memory networks for Visual Object Tracking, Journal of Visual Communication and Image Representation, Volume 108, 2025, 104431, ISSN 1047-3203, https://doi.org/10.1016/j.jvcir.2025.104431. **(JCR Q2, IF=2.6, CCF C类, 高质量期刊B类)**
+ 
 
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
