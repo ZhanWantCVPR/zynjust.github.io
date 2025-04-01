@@ -59,6 +59,6 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2021.09 - 2025 (now)*, Yong Liu ([[https://faculty.nuist.edu.cn/chenyadang/zh_CN/index.htm](http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)](http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)), 江苏省“六大人才高峰”B类, 江苏省“青蓝工程”中青年学术带头人, PhD supervisor, China.
+- *2021.09 - 2025 (now)*, Yong Liu ([http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=](http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)), 江苏省“六大人才高峰”B类, 江苏省“青蓝工程”中青年学术带头人, PhD supervisor, China.
 - *2018.09 - 2021.06*, Yadang Chen (https://faculty.nuist.edu.cn/chenyadang/zh_CN/index.htm), Master's supervisor, China.
 - *2018.09 - 2021.06*, Zhaoqing Pan ([https://seea.tju.edu.cn/info/1015/2556.htm](https://seea.tju.edu.cn/info/1015/2556.htm)), 全球前2%顶尖科学家（World Top 2% Scientists）, Master's supervisor, China.
