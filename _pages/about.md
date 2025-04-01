@@ -54,6 +54,20 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 
 - Ref: Yu Zheng, Yong Liu, Xun Che, A robust and adaptive framework with space–time memory networks for Visual Object Tracking, Journal of Visual Communication and Image Representation, Volume 108, 2025, 104431, ISSN 1047-3203, https://doi.org/10.1016/j.jvcir.2025.104431. **(JCR Q2, IF=2.6, CCF C类, 高质量期刊B类)**
  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CYBER 2024</div><img src='images/CYBER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RASTMTrack: Robust and Adaptive Space-Time Memory Networks for Visual Tracking]([https://ieeexplore.ieee.org/document/10749627](https://ieeexplore.ieee.org/document/10749627))
+
+**Yu Zheng**, Yong Liu, Xun Che
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: Y. Zheng, Y. Liu and X. Che, "RASTMTrack: Robust and Adaptive Space-Time Memory Networks for Visual Tracking," 2024 IEEE 14th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), Copenhagen, Denmark, 2024, pp. 314-319, doi: 10.1109/CYBER63482.2024.10749627. **(EI)**
+
 
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
