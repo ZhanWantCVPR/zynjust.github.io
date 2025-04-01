@@ -124,7 +124,19 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 
 - Ref: 南京信息工程大学. 一种基于高阶能量约束的视频对象分割算法:CN201910649351.8[P]. 2023-04-25. **(发明专利)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[一种基于知识图谱和增量学习的网络安全事件检测方法]([https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMjc5MzIxLjkaCHgxZW50ZTVz](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMjc5MzIxLjkaCHgxZW50ZTVz))
+
+车洵, 李千目, 朱旻昊, 刘帆, 陈竞飞, 赵谦, 李小超, **征煜**
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: 南京理工大学. 一种基于知识图谱和增量学习的网络安全事件检测方法:CN202310279321.9[P]. 2023-06-23. **(发明专利)**
 
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
