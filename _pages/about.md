@@ -152,6 +152,19 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 
 - Ref: 南京理工大学. 一种基于文本生成网络安全应急响应知识图谱方法:CN202310316305.2[P]. 2023-06-27. **(发明专利)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[一种基于强化学习的安全测试提示生成方法]([https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyNDEwNDI1MjQ4LjYaCHgxZW50ZTVz](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyNDEwNDI1MjQ4LjYaCHgxZW50ZTVz))
+
+陈亚当, 车洵, 朱旻昊, 徐睿, **征煜**, 赵谦, 刘帆, 陈竞飞, 顾欢欢, 胡婕, 寇怀振, 王博洋, 张嘉靓 
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: 江苏瑞智核信息技术有限公司. 一种基于强化学习的安全测试提示生成方法:CN202410425248.6[P]. 2024-07-12. **(发明专利)**
 
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
