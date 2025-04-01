@@ -68,6 +68,33 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 
 - Ref: Y. Zheng, Y. Liu and X. Che, "RASTMTrack: Robust and Adaptive Space-Time Memory Networks for Visual Tracking," 2024 IEEE 14th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), Copenhagen, Denmark, 2024, pp. 314-319, doi: 10.1109/CYBER63482.2024.10749627. **(EI)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE iThings 2024</div><img src='images/CYBER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Domain-Adaptive Large Language Model With Refinement Framework For IoT Cybersecurity]([https://ieeexplore.ieee.org/abstract/document/10731743](https://ieeexplore.ieee.org/abstract/document/10731743))
+
+Xun Che, **Yu Zheng**, Minhao Zhu, Qianmu Li, Xu Dong
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: X. Che, Y. Zheng, M. Zhu, Q. Li and X. Dong, "A Domain-Adaptive Large Language Model With Refinement Framework For IoT Cybersecurity," 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics, Copenhagen, Denmark, 2024, pp. 224-229, doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00056. **(EI)**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE iThings 2024</div><img src='images/CYBER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Diversified API Recommendation for Power System Sensors]([https://ieeexplore.ieee.org/abstract/document/10731780](https://ieeexplore.ieee.org/abstract/document/10731780))
+
+Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
+
+- Ref: M. Zhu et al., "A Novel Diversified API Recommendation for Power System Sensors," 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics, Copenhagen, Denmark, 2024, pp. 17-22, doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00027. **(EI)**
 
 # 🎖 Honors and Awards
 - *2024.11* Graduate Study Scholarship (三等).
