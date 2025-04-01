@@ -55,8 +55,9 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 - *2018.09 - 2021.06*, Nanjing University of Information Science and Technology (NUIST), Jiangsu Provincial Public Security Bureau Digital Forensics Key Laboratory (江苏省公安厅数字取证重点实验室). Master of Engineering (M.Eng.) degree (工学硕士学位). 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *August 19, 2024*, A Domain-Adaptive Large Language Model With Refinement Framework For IoT Cybersecurity. 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics.
+- *August 20, 2024*, A Novel Diversified API Recommendation for Power System Sensors. 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics.
+- *July 17, 2024*, RASTMTrack: Robust and Adaptive Space-Time Memory Networks for Visual Tracking. 2024 IEEE 14th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER).
 
 # 💻 Internships
 - *2021.09 - 2025 (now)*, Yong Liu ([http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=](http://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=vGMDvG9Fli2Mw864t7hFyg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)), 江苏省“六大人才高峰”B类, 江苏省“青蓝工程”中青年学术带头人, PhD supervisor, China.
