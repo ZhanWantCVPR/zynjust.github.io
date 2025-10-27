@@ -21,6 +21,8 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 
 
 # 🔥 News
+- *Oct 22, 2025*: &nbsp;🎉🎉 a paper was reviewed by **ICRA2026**!
+- *Sep 28, 2025*: &nbsp;🎉🎉 a paper was accepted by **KBS**!
 - *March 3, 2025*: &nbsp;🎉🎉 a paper was accepted by **JVCIR**!
 - *October 1, 2024*: &nbsp;🎉🎉 a paper was accepted by **MS**!
 - *August 20, 2024*: &nbsp;🎉🎉 a paper was accepted by **IEEE iThings(2024)**!
