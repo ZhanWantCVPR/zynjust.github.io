@@ -130,7 +130,7 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 
 - Ref: 南京信息工程大学. 一种基于高阶能量约束的视频对象分割算法:CN201910649351.8[P]. 2023-04-25. **(发明专利)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [一种基于知识图谱和增量学习的网络安全事件检测方法]([https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMjc5MzIxLjkaCHgxZW50ZTVz](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMjc5MzIxLjkaCHgxZW50ZTVz))
@@ -142,9 +142,9 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 </div>
 </div>
 
-- Ref: 南京理工大学. 一种基于知识图谱和增量学习的网络安全事件检测方法:CN202310279321.9[P]. 2023-06-23. **(发明专利)**
+- Ref: 南京理工大学. 一种基于知识图谱和增量学习的网络安全事件检测方法:CN202310279321.9[P]. 2025-08-26. **(发明专利)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [一种基于文本生成网络安全应急响应知识图谱方法]([https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMzE2MzA1LjIaCHgxZW50ZTVz](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTAzMTgwODIxNTASEENOMjAyMzEwMzE2MzA1LjIaCHgxZW50ZTVz))
@@ -156,7 +156,7 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 </div>
 </div>
 
-- Ref: 南京理工大学. 一种基于文本生成网络安全应急响应知识图谱方法:CN202310316305.2[P]. 2023-06-27. **(发明专利)**
+- Ref: 南京理工大学. 一种基于文本生成网络安全应急响应知识图谱方法:CN202310316305.2[P]. 2025-09-02. **(发明专利)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/patent4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
