@@ -200,7 +200,7 @@ Minhao Zhu, Huanhuan Gu, Xun Che, Jingfei Chen, Qian Zhao, Fan Liu, **Yu Zheng**
 
 - Ref: 江苏瑞智核信息技术有限公司. 多重信息轴向引导非对称半监督语义分割方法:CN202410620294.1[P]. 2024-08-09. **(发明专利)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software Copyright</div><img src='images/sc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software Copyright</div><img src='images/sc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [在线学习系统v1.0]
