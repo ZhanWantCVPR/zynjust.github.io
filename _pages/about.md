@@ -21,16 +21,27 @@ I received my Master of Engineering in Software Engineering from Nanjing Univers
 
 
 # 🔥 News
-- *Oct 22, 2025*: &nbsp;🎉🎉 a paper was reviewed by **ICRA2026(A类会议)**!
-- *Oct 28, 2025*: &nbsp;🎉🎉 a paper was accepted by **KBS(JCR Q1)**!
+- *June 30, 2026*: &nbsp;🎉🎉 a paper was accepted by **KBS(JCR Q1, 中科院一区Top)**!
 - *March 3, 2025*: &nbsp;🎉🎉 a paper was accepted by **JVCIR(JCR Q2)**!
 - *October 1, 2024*: &nbsp;🎉🎉 a paper was accepted by **MS(JCR Q1)**!
 - *August 20, 2024*: &nbsp;🎉🎉 a paper was accepted by **IEEE iThings(2024)(EI)**!
 - *August 19, 2024*: &nbsp;🎉🎉 a paper was accepted by **IEEE iThings(2024)(EI)**! 
 - *July 17, 2024*: &nbsp;🎉🎉 a paper was accepted by **IEEE CYBER(2024)(EI)**!
-- *March 17, 2020*: &nbsp;🎉🎉 a paper was accepted by **中国图象图形学报(CCF B类)**! 
+- *March 17, 2020*: &nbsp;🎉🎉 a paper was accepted by **中国图象图形学报(CCF B类,CSCD核心,北大核心)**! 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/kbs_fasterstmtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FasterSTMTrack: A faster and more efficient visual object tracking with space-time memory network]([https://www.sciencedirect.com/science/article/pii/S0950705126011810?via%3Dihub](10.1016/j.knosys.2026.116455))
+
+**Yu Zheng**, Yong Liu, Xun Che
+
+[**Project**]([https://github.com/ZhanWantCVPR](https://github.com/ZhanWantCVPR)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- It will be made public. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Systems</div><img src='images/MS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
